@@ -1,2 +1,3 @@
 # Sales-Analytics-project
-A simple insights into the sales made by blinkit industry within 2019-2020
+This Tableau-powered sales dashboard provides an insightful overview of key performance metrics for the Blinkit e-commerce platform. 
+
